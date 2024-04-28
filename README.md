@@ -9,3 +9,5 @@ The second part focuses on real-world data related to car prices in Moldova. Ini
 The performance of the models is assessed using accuracy, classification reports, and confusion matrices. Additionally, error analysis is conducted and visualized to understand the discrepancies between actual and predicted car prices.
 
 Overall, this project demonstrates the application of logistic regression in both synthetic and real-world datasets, emphasizing data preprocessing, model training, evaluation, and performance analysis.
+
+THIS PROJECT NEEDS SOME MODIFICATIONS BECAUSE IT IS NOT FINISHED YET!!
