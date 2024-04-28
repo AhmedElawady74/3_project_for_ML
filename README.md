@@ -1,5 +1,7 @@
 # 3_project_for_ML
 
+THIS PROJECT NEEDS SOME MODIFICATIONS BECAUSE IT IS NOT FINISHED YET!!
+
 This project consists of two parts: "На синтетических данных" (On Synthetic Data) and "На реальных данных" (On Real Data), each addressing different aspects of machine learning.
 
 In the first part, synthetic data is generated and used to demonstrate the implementation of logistic regression. Key steps include importing necessary libraries, generating synthetic data, training a logistic regression model, visualizing the data and decision boundaries, and evaluating the model's performance.
@@ -10,4 +12,3 @@ The performance of the models is assessed using accuracy, classification reports
 
 Overall, this project demonstrates the application of logistic regression in both synthetic and real-world datasets, emphasizing data preprocessing, model training, evaluation, and performance analysis.
 
-THIS PROJECT NEEDS SOME MODIFICATIONS BECAUSE IT IS NOT FINISHED YET!!
